@@ -24,24 +24,10 @@ This project is a part of the Human-Computer Interaction (HCI) coursework. It sh
 
 ## 🛠 Tech Stack
 
-- **Design & Prototyping**: Figma / Adobe XD (assumed)
+- **Design & Prototyping**: Figma 
 - **Mock Data**: Sample data included in wireframes
 - **File Format**: PDF UI Screens and Report
 - **Documentation**: Markdown (`README.md`), Project Report (`.docx`/`.pdf`)
-
----
-
-## 🖼 Screenshots
-
-> 📷 Add screenshots here once exported from the prototype PDF:
-- Dashboard UI
-- Expense entry form
-- Savings goal screen
-- Charts & Analytics
-- Profile & Settings
-- Support chat
-
----
 
 ## 🧑‍💼 User Roles
 
